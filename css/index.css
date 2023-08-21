@@ -178,7 +178,7 @@ font-family: 'Titillium Web', sans-serif;
 
 #sec3::before {
     content: " ";
-    background: url("../img/icons/smoke.png") no-repeat center center/cover;
+    background: url("../img/smoke.png") no-repeat center center/cover;
     height: 100%;
     width: 85%;
     position: absolute;
